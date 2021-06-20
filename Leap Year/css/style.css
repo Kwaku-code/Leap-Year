@@ -1,0 +1,43 @@
+.Lyear{
+    width: 500px;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	background-color: #fff;
+	transform: translate(-50%, -50%);
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 20px #ee5253;
+    column-gap: flex;
+    text-align: center;
+    align-items: center; 
+}
+
+#textEnter{
+    font-size: 24px;
+	font-weight: 600;     
+} 
+
+#year{
+			
+    width: 200px;
+    margin-top: 20px;
+}
+
+#button{
+	font-family: inherit;
+	margin-top: 20px;
+	border: none;
+	color: #fff;
+	background-image: linear-gradient(120deg,#ff6b6b, #5f27cd);
+	width: 150px;
+	padding: 10px;
+	border-radius: 30px;
+	outline: none;
+	cursor: pointer;
+}
+
+#Paragragh {
+    margin-top: 20px;
+}
+			
